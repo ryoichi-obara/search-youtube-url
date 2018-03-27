@@ -1,0 +1,29 @@
+{
+  "name": "search-youtube-url",
+  "description": "Get url from YouTube search result.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ryoichi-obara"
+  },
+  "bugs": {
+    "url": "https://github.com/ryoichi-obara/search-youtube-url/issues"
+  },
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "puppeteer": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  },
+  "homepage": "https://github.com/ryoichi-obara/search-youtube-url#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryoichi-obara/search-youtube-url.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
