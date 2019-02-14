@@ -9,12 +9,12 @@
     "url": "https://github.com/ryoichi-obara/search-youtube-url/issues"
   },
   "dependencies": {
-    "eslint": "^4.19.1",
-    "puppeteer": "^1.2.0"
+    "eslint": "^5.13.0",
+    "puppeteer": "^1.12.2"
   },
   "devDependencies": {
-    "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.9.0"
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
   },
   "homepage": "https://github.com/ryoichi-obara/search-youtube-url#readme",
   "license": "MIT",
